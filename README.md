@@ -1,12 +1,11 @@
 # vue全家桶初始化项目配置（vue + vue-router + vuex + eslint）
 
-
-* * *
-## 启动生成环境
-  npm run prod
 * * *
 ## 安装依赖
   npm install
+* * *
+## 启动生成环境
+  npm run prod
 * * *
 ## 启动开发环境
   npm run dev
